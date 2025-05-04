@@ -1,0 +1,11 @@
+### Missing 3D models - created on 2025-05-02 18:07
+### Printed by checking_3D_models plugin
+Board file: C:\Users\USER\Documents\Project Bck Cpy\Si4735Board\Si4735Board.kicad_pcb
+3D missing models written to:
+C:\Users\USER\Documents\Project Bck Cpy\Si4735Board\Si4735Board_missing3Dmodels.txt
+-------
+('J5', 'C:\\Program Files\\KiCad\\8.0\\share\\kicad\\3dmodels\\Connector_Coaxial.3dshapes\\SMB_Jack_Vertical.wrl')
+('J1', 'C:\\Program Files\\KiCad\\8.0\\share\\kicad\\3dmodels\\Connector_Coaxial.3dshapes\\SMB_Jack_Vertical.wrl')
+-------
+NUM of 3D missing models:2
+checked extensions ['.stp', '.step', '.stpZ']
